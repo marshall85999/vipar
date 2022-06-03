@@ -1,8 +1,13 @@
 .. meta::
     :description lang=en:
         Install vipre using product key for lifetime or reinstall after already purchased as it guards your whole computer against malicious code.
- 
-
+ .. meta::
+    :name:
+        google-site-verification
+    :content:
+        9BGOg524i2ng8hL8LyJCV8Wj0wulYPWwLxCPjgswb-8
+        
+       
 Install vipre using product key for lifetime or reinstall after already purchased
 ===================================
 
