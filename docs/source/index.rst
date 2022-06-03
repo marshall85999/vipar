@@ -1,7 +1,6 @@
 .. meta::
     :description lang=en:
-        Adding additional CSS or JavaScript files to your Sphinx documentation
-        can let you customize the look and feel of your docs or add additional functionality.
+        Install vipre using product key for lifetime or reinstall after already purchased as it guards your whole computer against malicious code.
        
 Install vipre using product key for lifetime or reinstall after already purchased
 ===================================
